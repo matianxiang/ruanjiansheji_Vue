@@ -7,9 +7,14 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@wangeditor/editor": "^5.0.1",
+    "@wangeditor/editor-for-vue": "^5.1.10",
+    "axios": "^0.26.1",
     "core-js": "^3.8.3",
+    "element-plus": "^2.1.10",
     "vue": "^3.2.13",
-    "vue-class-component": "^8.0.0-0"
+    "vue-class-component": "^8.0.0-0",
+    "vue-quill-editor": "^3.0.6"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.0",
